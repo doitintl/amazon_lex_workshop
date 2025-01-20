@@ -35,7 +35,7 @@ En nuestro caso de uso, vamos a implementar un bot de Amazon Lex con tres intenc
     * Soporte de cuenta
     * Necesito ayuda con mi cuenta
     * Necesito ayuda con la cuenta número {account_id}
-    * ¿Puedes ayudarme con la cuenta número {account_id}?
+    * ¿Puedes ayudarme con la cuenta número {account_id}
 8. **Agrega una ranura:** 
     * Ve a la sección "Ranuras" y selecciona "Agregar ranura" (datos que el usuario debe proporcionar para cumplir con la intención).
     * Nombre de la ranura: "account_id"
